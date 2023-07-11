@@ -1,5 +1,5 @@
 body {
-	background-color:white;
+	background-color:silver;
 	background-position:fixed;
 	line-height:25px;
 	
@@ -7,22 +7,23 @@ body {
 
 .content {
 	background-color:#fbf468;
-	border-radius:25px;
+	border-radius:15px;
 	width:300px;
 	height:370px;
 	padding: 10px;
+	box-shadow: 0 0 28px black;
 }
 
 
 input {
 	font-family: tahoma;
-	font-size:10px;
+	font-size:12px;
     color: #070707;
 	height:30px;
 	padding:0 10px;
 	width:200px;
 	margin:5px 10px;
-	border: #b4b349 solid 1px;
+	border: #711ae9 solid 1px;
 	background-color:transparent;
 	float:center;
 	outline:0;
